@@ -1,75 +1,79 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5974c1d93dbe60e940f29d23f82d1034",
+    "revision": "16361e27f2156842a8d01d4372175e31",
     "url": "/index.html"
   },
   {
-    "revision": "622d36a7d5137ec083d7",
+    "revision": "ebb2ecf3383f26c96e80",
     "url": "/static/css/main.1da39053.chunk.css"
   },
   {
-    "revision": "e693d00c1de97fe7fdbe",
-    "url": "/static/js/0.f92f565f.chunk.js"
+    "revision": "d403328ab3aa42defa05",
+    "url": "/static/js/0.034fa7fb.chunk.js"
   },
   {
-    "revision": "62cc462146659f2ba72b",
-    "url": "/static/js/10.e30008b3.chunk.js"
+    "revision": "ac4d3815aa678847efd1",
+    "url": "/static/js/10.1cb14a01.chunk.js"
   },
   {
-    "revision": "98c6cdcd224c7fb164ab",
-    "url": "/static/js/3.3f59c1d8.chunk.js"
+    "revision": "035e984d0e795b065f90",
+    "url": "/static/js/3.335d8a2b.chunk.js"
   },
   {
     "revision": "581f7cb98c6aa0f633410d0af5fbe9b3",
-    "url": "/static/js/3.3f59c1d8.chunk.js.LICENSE.txt"
+    "url": "/static/js/3.335d8a2b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bbf331f9061304e9bcf8",
-    "url": "/static/js/4.c94eadb1.chunk.js"
+    "revision": "23acc3dac6859594c6c9",
+    "url": "/static/js/4.bc478d2f.chunk.js"
   },
   {
-    "revision": "e63c06c35182a19f2ada",
-    "url": "/static/js/5.637dc040.chunk.js"
+    "revision": "fe961876b77e7a5be7d0",
+    "url": "/static/js/5.8992d079.chunk.js"
   },
   {
     "revision": "800c8c88b71490b35d9e636bbf8c583d",
-    "url": "/static/js/5.637dc040.chunk.js.LICENSE.txt"
+    "url": "/static/js/5.8992d079.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "65e7a97fe186e2a5cef5",
-    "url": "/static/js/6.3d4bcc19.chunk.js"
+    "revision": "1f964b91ae4a4f265bab",
+    "url": "/static/js/6.c4c86d3d.chunk.js"
   },
   {
     "revision": "88e5053053539c8b4a53480943cb0e08",
-    "url": "/static/js/6.3d4bcc19.chunk.js.LICENSE.txt"
+    "url": "/static/js/6.c4c86d3d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2881fca0764fe12d1754",
-    "url": "/static/js/7.975aa92d.chunk.js"
+    "revision": "25153d41c2e5f7b2ef6d",
+    "url": "/static/js/7.7350fef8.chunk.js"
   },
   {
     "revision": "7ec01595672f75e83fd81b41f132f4c1",
-    "url": "/static/js/7.975aa92d.chunk.js.LICENSE.txt"
+    "url": "/static/js/7.7350fef8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d76e83fe49a40d08080e",
-    "url": "/static/js/8.367aba0d.chunk.js"
+    "revision": "cdd0cc6fd5a6b5401c6c",
+    "url": "/static/js/8.0506856f.chunk.js"
   },
   {
     "revision": "d43bcb65c23262ca7bd991f5625a0c00",
-    "url": "/static/js/8.367aba0d.chunk.js.LICENSE.txt"
+    "url": "/static/js/8.0506856f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dfc328363b3b5dde87db",
-    "url": "/static/js/9.a30bf434.chunk.js"
+    "revision": "5ddec4321e7e1e142a5c",
+    "url": "/static/js/9.32dcb2b6.chunk.js"
   },
   {
-    "revision": "622d36a7d5137ec083d7",
-    "url": "/static/js/main.3f23061a.chunk.js"
+    "revision": "ebb2ecf3383f26c96e80",
+    "url": "/static/js/main.efc7d4e7.chunk.js"
   },
   {
-    "revision": "2bfbea6e8d86c78c7b5b",
-    "url": "/static/js/runtime-main.b900ca0d.js"
+    "revision": "382763e0ac4157c3208c",
+    "url": "/static/js/runtime-main.a821ed0e.js"
+  },
+  {
+    "revision": "bc11f68698d1f55f91984d10cea249d5",
+    "url": "/static/media/aplLogo.bc11f686.png"
   },
   {
     "revision": "bc11f68698d1f55f91984d10cea249d5",
@@ -96,20 +100,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/busd_symbol.a3f4fe6b.svg"
   },
   {
+    "revision": "a581c942a8804471a45c121dc7b8913c",
+    "url": "/static/media/certik.a581c942.svg"
+  },
+  {
     "revision": "26d4501f9d3f49e0a1fa9e86cd462de3",
     "url": "/static/media/dai_symbol.26d4501f.png"
   },
   {
-    "revision": "333e9e307d5d74b9156638e87f108a52",
-    "url": "/static/media/discord.333e9e30.svg"
+    "revision": "8a5c7265dcc4aba3151a2f98b755c60f",
+    "url": "/static/media/discord.8a5c7265.svg"
+  },
+  {
+    "revision": "2e1e16f49f3ea5c26444e254ce5a941f",
+    "url": "/static/media/docs.2e1e16f4.svg"
   },
   {
     "revision": "90d3fdfa57058157865b46d831587feb",
     "url": "/static/media/epsLogo.90d3fdfa.png"
   },
   {
-    "revision": "b2e53cc39e3877142c1fa16a8b1b06ab",
-    "url": "/static/media/github.b2e53cc3.png"
+    "revision": "27a121d868fe28de56b15404b8c529df",
+    "url": "/static/media/github.27a121d8.svg"
   },
   {
     "revision": "0742e4959073dd1d3f17ab673beb14a2",
@@ -120,28 +132,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/line.3e7a799f.svg"
   },
   {
+    "revision": "7f42ec8926b7b9ad08f994688da84f1b",
+    "url": "/static/media/midium.7f42ec89.svg"
+  },
+  {
     "revision": "52502f05c735e71b9ab29531e3576449",
     "url": "/static/media/modalBg.52502f05.png"
-  },
-  {
-    "revision": "7a47ffd0bbf1c1d97b3709c01d81367b",
-    "url": "/static/media/newDiscord.7a47ffd0.svg"
-  },
-  {
-    "revision": "2e1e16f49f3ea5c26444e254ce5a941f",
-    "url": "/static/media/newDoc.2e1e16f4.svg"
-  },
-  {
-    "revision": "f05a9e99386f02b5dd8887c149fd32d0",
-    "url": "/static/media/newGithub.f05a9e99.svg"
-  },
-  {
-    "revision": "324bf07f1be48f79436ee54b7aa455e0",
-    "url": "/static/media/newMedium.324bf07f.svg"
-  },
-  {
-    "revision": "defa6b4249f672cb5bf9ebfba60830fb",
-    "url": "/static/media/newTwitter.defa6b42.svg"
   },
   {
     "revision": "7c18dc01edcc199b1ed7dc7c8c21530f",
@@ -152,6 +148,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/step.b9577ad6.svg"
   },
   {
+    "revision": "3b78e7e554b6e30aa4a43efe68ac25f7",
+    "url": "/static/media/telegram.3b78e7e5.svg"
+  },
+  {
     "revision": "639eb3b5742635a7ac5a6bf2b399b62d",
     "url": "/static/media/tip.639eb3b5.svg"
   },
@@ -160,12 +160,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/tree_symbol.e451c8bf.png"
   },
   {
+    "revision": "da2ebf0388d01430bcd7370a2a8d7b0e",
+    "url": "/static/media/twitter.da2ebf03.svg"
+  },
+  {
     "revision": "c76b33ca42c5730ab77f3341ce9764a7",
     "url": "/static/media/usdc_symbol.c76b33ca.png"
   },
   {
     "revision": "839a0f0d6e0a69fed8d7846344d2100b",
     "url": "/static/media/usdt_symbol.839a0f0d.png"
+  },
+  {
+    "revision": "cbb1827b3d633dea6c96c1ab3f44f385",
+    "url": "/static/media/venusLogo.cbb1827b.svg"
   },
   {
     "revision": "f1795774e8375b05cf963c0962e0942e",
