@@ -1,75 +1,75 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c04a0bd178ae921e3b5afc00aa5d53be",
+    "revision": "1ac9c7a4482adc9dcde1c7659de4d357",
     "url": "/index.html"
   },
   {
-    "revision": "d44e8f1b8d227c3bebb9",
+    "revision": "dd061f8b815b30f0d74e",
     "url": "/static/css/main.1da39053.chunk.css"
   },
   {
-    "revision": "f39ed175c4c1f4be73ba",
-    "url": "/static/js/0.11be8696.chunk.js"
+    "revision": "e3b70fd5920af2d31645",
+    "url": "/static/js/0.6deff4a2.chunk.js"
   },
   {
-    "revision": "c7b17ce6c20e73b4adeb",
-    "url": "/static/js/10.edc5f955.chunk.js"
+    "revision": "aa3f928ece2f066661a3",
+    "url": "/static/js/10.50881d45.chunk.js"
   },
   {
-    "revision": "7faaf756c8439915cec3",
-    "url": "/static/js/3.9f68f5e0.chunk.js"
+    "revision": "d57c2874a02cef2ce530",
+    "url": "/static/js/3.51647374.chunk.js"
   },
   {
     "revision": "581f7cb98c6aa0f633410d0af5fbe9b3",
-    "url": "/static/js/3.9f68f5e0.chunk.js.LICENSE.txt"
+    "url": "/static/js/3.51647374.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c0f7e80383b48e95e77d",
-    "url": "/static/js/4.ad905b0c.chunk.js"
+    "revision": "e0e800bc48b5857f6ade",
+    "url": "/static/js/4.fa8f6ca6.chunk.js"
   },
   {
-    "revision": "3899470993ff83f84006",
-    "url": "/static/js/5.6d6c2cf3.chunk.js"
+    "revision": "9a8d822e129cec45cfd9",
+    "url": "/static/js/5.19ea026d.chunk.js"
   },
   {
     "revision": "800c8c88b71490b35d9e636bbf8c583d",
-    "url": "/static/js/5.6d6c2cf3.chunk.js.LICENSE.txt"
+    "url": "/static/js/5.19ea026d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c159f49bbf3bef873ccd",
-    "url": "/static/js/6.234a2132.chunk.js"
+    "revision": "5cb03068038e8504b03a",
+    "url": "/static/js/6.78ff20a7.chunk.js"
   },
   {
     "revision": "88e5053053539c8b4a53480943cb0e08",
-    "url": "/static/js/6.234a2132.chunk.js.LICENSE.txt"
+    "url": "/static/js/6.78ff20a7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6ad3e82a7f16e48d60ca",
-    "url": "/static/js/7.452af5a8.chunk.js"
+    "revision": "56dff8ef9ba50189c2c4",
+    "url": "/static/js/7.d582895d.chunk.js"
   },
   {
     "revision": "7ec01595672f75e83fd81b41f132f4c1",
-    "url": "/static/js/7.452af5a8.chunk.js.LICENSE.txt"
+    "url": "/static/js/7.d582895d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8c84e12de61f8d55e484",
-    "url": "/static/js/8.a051fd11.chunk.js"
+    "revision": "88d344cdfe4f413a7ae0",
+    "url": "/static/js/8.041abdf9.chunk.js"
   },
   {
     "revision": "d43bcb65c23262ca7bd991f5625a0c00",
-    "url": "/static/js/8.a051fd11.chunk.js.LICENSE.txt"
+    "url": "/static/js/8.041abdf9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5ddec4321e7e1e142a5c",
-    "url": "/static/js/9.32dcb2b6.chunk.js"
+    "revision": "ea3afab5a081cac0f5b0",
+    "url": "/static/js/9.a500b601.chunk.js"
   },
   {
-    "revision": "d44e8f1b8d227c3bebb9",
-    "url": "/static/js/main.6c13f905.chunk.js"
+    "revision": "dd061f8b815b30f0d74e",
+    "url": "/static/js/main.8cbc54e9.chunk.js"
   },
   {
-    "revision": "818bcfa94f0baa8e7b33",
-    "url": "/static/js/runtime-main.03832fba.js"
+    "revision": "a1461c6e641cd828e1c9",
+    "url": "/static/js/runtime-main.2e09f306.js"
   },
   {
     "revision": "192a27ac12b1f7e7f4e9537a6e6f0ef0",
@@ -114,6 +114,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2e1e16f49f3ea5c26444e254ce5a941f",
     "url": "/static/media/docs.2e1e16f4.svg"
+  },
+  {
+    "revision": "9ee2331ab94fe815104c2fb5d32fccc6",
+    "url": "/static/media/eps3pool.9ee2331a.png"
   },
   {
     "revision": "90d3fdfa57058157865b46d831587feb",
@@ -168,8 +172,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/usdc_symbol.c76b33ca.png"
   },
   {
+    "revision": "41592d5d5c60e5ad062faf689792f967",
+    "url": "/static/media/usdd3Pool.41592d5d.png"
+  },
+  {
+    "revision": "eb150e91b06f33030eb0e27583020ae7",
+    "url": "/static/media/usdd_busd.eb150e91.png"
+  },
+  {
     "revision": "839a0f0d6e0a69fed8d7846344d2100b",
     "url": "/static/media/usdt_symbol.839a0f0d.png"
+  },
+  {
+    "revision": "bd40cb4519da394b8c2e3f75f524030f",
+    "url": "/static/media/valDai3pool.bd40cb45.png"
   },
   {
     "revision": "cbb1827b3d633dea6c96c1ab3f44f385",
